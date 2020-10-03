@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Material Design App Java</string>
+    <string name="language">Language</string>
+    <string name="languageimage">LanguageImage</string>
+
+    <string-array name="Languages">
+        <item>C-Sharp</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Nodejs</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>Swift</item>
+    </string-array>
+
+    <array name="LanguageImgs">
+        <item>@drawable/csharp48</item>
+        <item>@drawable/cplusplus48</item>
+        <item>@drawable/java48</item>
+        <item>@drawable/javascript48</item>
+        <item>@drawable/nodejs48</item>
+        <item>@drawable/php40</item>
+        <item>@drawable/python48</item>
+        <item>@drawable/swift48</item>
+    </array>
+</resources>
